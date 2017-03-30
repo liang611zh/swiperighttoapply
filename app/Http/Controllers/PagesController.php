@@ -16,4 +16,8 @@ class PagesController extends Controller
     protected function contact(){
         return view('pages.contactus');
     }
+
+    protected function about(){
+        return view('pages.aboutus');
+    }
 }
