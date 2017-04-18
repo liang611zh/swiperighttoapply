@@ -81,7 +81,11 @@
         <div class="title m-b-md">
             About Us
         </div>
-        <img src="/images/02.jpg">
+        <figure>
+            <img src="/images/02.jpg">
+            <figcaption>Enjoy everyday!</figcaption>
+        </figure>
+
         <br>
         <br>
         <div class="links">
